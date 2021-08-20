@@ -1,0 +1,9 @@
+CADASTRAR PEÇAS
+
+V - Criar lista (array) para os nomes de peças.
+
+V - Peça deve possuir mais de 100 g para ser cadastrada.
+
+V - Capacidade máxima de peças cadastradas é de 10 unidades.
+
+V - Verificar se peça possui nome de mais de 3 caracteres e se é vazio.
